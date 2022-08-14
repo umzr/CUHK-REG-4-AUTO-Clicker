@@ -1,9 +1,7 @@
 # 講明先有風險 中大AUTO reg科 
 
-- Javascript 個TIME 唔多準確 (+/- 0.5s)
-- https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-- run 個SCRIPT
-
+- python 寫, 已經轉咗做.exe
+- 驚有毒嘅話，自己病毒scan file
 
 ```
 The MIT License (MIT)
