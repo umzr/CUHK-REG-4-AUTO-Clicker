@@ -9,7 +9,7 @@
 - Since I don't Sync CUSIS Server TIME in the old version, Each time Reg courses is failed. 
 - 今次終於冇問題 =.='' 
 - This time no problems.
-- 
+
 ```
 Disclaimer:
 UMZR is not liable for any loss caused, whether due to negligence or otherwise 
