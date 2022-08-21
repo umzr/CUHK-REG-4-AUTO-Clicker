@@ -1,10 +1,20 @@
-# 講明先有風險 中大AUTO reg科 
+# 中大AUTO reg科 CUHK CUSIS AUTO REG COURSES
+
 
 - python 寫, 已經轉咗做.exe
+- I use python write. If you don't know how to run python, you can use my .exe file.
 - `src/main.py` 有source
-- 因為我之前冇SYNC 好 CUSIS TIME， 搞到次次REG 科都fail。
+- Source code is in `src/main.py`. Feel free to QA. 
+- 因為我之前冇SYNC 好 CUSIS TIME， 搞到次次快過CUSIS SERVER TIME，REG 科都fail 咗。
+- Since I don't Sync CUSIS Server TIME in the old version, Each time Reg courses is failed. 
 - 今次終於冇問題 =.='' 
+- This time no problems.
+- 
+```
+Disclaimer:
+UMZR is not liable for any loss caused, whether due to negligence or otherwise arising from the use of, or reliance on, the information provided directly or indirectly, by use of this CUHK CUSIS AUTO REG COURSES.
 
+```
 ```
 The MIT License (MIT)
 
