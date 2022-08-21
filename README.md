@@ -1,7 +1,9 @@
 # 講明先有風險 中大AUTO reg科 
 
 - python 寫, 已經轉咗做.exe
-- 驚有毒嘅話，自己病毒scan file
+- `src/main.py` 有source
+- 因為我之前冇SYNC 好 CUSIS TIME， 搞到次次REG 科都fail。
+- 今次終於冇問題 =.='' 
 
 ```
 The MIT License (MIT)
