@@ -12,7 +12,9 @@
 - 
 ```
 Disclaimer:
-UMZR is not liable for any loss caused, whether due to negligence or otherwise arising from the use of, or reliance on, the information provided directly or indirectly, by use of this CUHK CUSIS AUTO REG COURSES.
+UMZR is not liable for any loss caused, whether due to negligence or otherwise 
+arising from the use of, or reliance on, the information provided directly or 
+indirectly, by use of this CUHK CUSIS AUTO REG COURSES.
 
 ```
 ```
